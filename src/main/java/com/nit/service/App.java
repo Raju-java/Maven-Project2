@@ -7,6 +7,9 @@ public class App
 	public void m1(){
 	System.out.println("m1() method modified");
 	}
+	public void m2(){
+	
+	}
 
     public static void main( String[] args ) throws StringIndexOutOfBoundsException 
     {
