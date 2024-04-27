@@ -10,6 +10,11 @@ public class App
 	public void m2(){
 	System.out.println("this is m2() method completed");
 	}
+	public void m3(){
+	System.out.println("m3() method after completed");
+	}
+	public void m4(){
+	}
 
     public static void main( String[] args ) throws StringIndexOutOfBoundsException 
     {
